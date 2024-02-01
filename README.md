@@ -26,4 +26,4 @@ Add a new column named month_name that contains the extracted months of the year
            *Branch A and C have good ratings; branch B has to do a little more to improve its ratings 
            *Monday, Tuesday, and Friday are the top three days for good ratings.
            *Evenings are peak sales times for shops.
-           *
+           
